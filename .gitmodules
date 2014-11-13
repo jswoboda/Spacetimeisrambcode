@@ -1,0 +1,4 @@
+[submodule "RadarDataSim"]
+	path = RadarDataSim
+	url = https://github.com/jswoboda/RadarDataSim.git
+	branch = paperversion
