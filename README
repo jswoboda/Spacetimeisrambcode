@@ -1,0 +1,28 @@
+README
+by John Swoboda 
+email: swoboj@bu.edu
+
+This code base will allow the user to recreate the figures associated with the paper Space-Time Ambiguity Functions for Electronically Scanned ISR Applications. The code is a mixture of MATLAB and Python Code. The original I\Q is created and fitted in Python while the interpolation and fitting is done in MATLAB.
+
+Figure 3: Run ambsurf.m with the function AMISR_Pattern.m in your path and lp240_20 in the same 
+directory.
+
+Figure 4: Run ambsurfwtime.m with the function AMISR_Pattern.m in your path and lp240_20 in the same 
+directory.
+
+Figures 8, 10 and 11: Use plottingex2.m to create the figures. The data files
+origdata.mat, origdata2.mat and patchex.mat will be required to run the code. The data can be
+recreated by running the code in the python code library.
+
+Figure 12:Use plottingstation.m to create the figure. The data files
+origdatastation.mat, origdatastation2.mat and patchexstation.mat will be required to run the code. The data can be
+recreated by running the code in the python code library.
+
+
+Figures 14, and 15: Use plottingex4.m to create the figures. The data files
+origdatatemp.mat and patchewtemp.mat will be required to run the code. The data can be
+recreated by running the code in the python code library.
+
+Figure 16:
+
+Figure 17: 
